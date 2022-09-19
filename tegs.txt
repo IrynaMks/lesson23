@@ -1,0 +1,66 @@
+https://fermercenter.com/image/cache/data/NERTUS/sunflower_large-300x300.png
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<h1> Текст <sub>для</sub> заголовка</h1>
+<h2> наступний <sup> текст</sup> </h2>
+<div>
+<front color = "#030559">
+<h3> ще один текст</h3>
+<h4> текст №4</h4>
+<h5> текст №5</h5>
+<h6> текст №6</h6>
+</front>
+</div>
+<p>
+Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod temp <br> <b> or incididunt ut labor</b> e et dolore magna aliqua. <i>Ut enim ad minim veniam, quis nostrud</i> exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</p>
+<hr>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ol>
+<li>стрічка в списку</li>
+<li>стрічка в списку</li>
+<li>стрічка в списку</li>
+<li>стрічка в списку</li>
+</ol>
+<table>
+  <tbody>
+    <tr>
+      <th>назва 1</th>
+      <th>назва 2</th>
+    </tr>
+    <tr>
+      <td>Ячейка 3</td>
+      <td>Ячейка 4</td>
+    </tr>
+  </tbody>
+</table>
+<img src="https://fermercenter.com/image/cache/data/NERTUS/sunflower_large-300x300.png" alt="альтернативный текст">
+<button type="button" name="show_more">Показати ще</button>
+<hr>
+<br> <button>
+<img src="https://fermercenter.com/image/cache/data/NERTUS/sunflower_large-300x300.png" width="40" height="40"alt="альтернативный текст">
+</button>
+<hr>
+<br><input name="guruweba_example_date" type="date" />
+<hr>
+<br>
+<input id="radio_1" name="guruweba_example_radio" type="radio" value="1" />
+<label for="radio_1">Положение 1</label><br />
+<input id="radio_2" name="guruweba_example_radio" type="radio" value="2" />
+<label for="radio_2">Положение 2</label><br />
+<input id="radio_3" name="guruweba_example_radio" type="radio" value="3" />
+<label for="radio_3">Положение 3</label>
+<br>
+<hr>
+<input name="guruweba_example_range" type="range" min="5" max="28" />
+</body>
+
+
+Maks2022!!
